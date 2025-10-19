@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    font-family: 'Montserrat';
+}
+
+.header-left {
+    gap: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-weight: 700;
+}
+
+.select-phone-model {
+    gap: 15px;
+    display: flex;
+}
+
+.select-phone-model-text {
+    font-weight: 500;
+}
+
+nav {
+    gap: 30px;
+    display: flex;
+}
